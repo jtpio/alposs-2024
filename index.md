@@ -136,16 +136,25 @@ img[alt~="center"] {
 
 # Un site Jupyter accessible en quelques secondes
 
+TODO:
+- demo site
+- demo video
+
 ---
 
 # Education
+
+- Capytale
+- scikit-learn notebooks: https://scikit-learn.org/dev/lite/lab/index.html
 
 ---
 
 # Ressources
 
 - Documentation Jupyter: https://docs.jupyter.org
-- Cette présentation: https://github.com/jtpio/alposs-2024
+- Cette présentation:
+  - Repo: https://github.com/jtpio/alposs-2024
+  - Demo: https://jtp.io/alposs-2024
 
 ---
 
