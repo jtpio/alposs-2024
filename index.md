@@ -48,6 +48,69 @@ img[alt~="center"] {
 
 # Les Jupyter Notebook
 
+- Data Science
+- Analyse de données
+- Education
+
+---
+
+# Historique rapide de Jupyter
+
+---
+
+# Interactive Computing
+
+- Compose
+- Submit
+- Run
+- Output
+- View
+- Repeat
+
+---
+
+# IPython
+
+- Challenges:
+  - **Pas de narration**
+  - **Pas de mémoire**
+  - **Pas de reproductibilité et communication**
+
+![bg fit right](https://ipython.readthedocs.io/en/stable/_images/ipython-6-screenshot.png)
+
+---
+
+# REPL: Read Eval Print Loop
+
+---
+
+# Pourquoi les Jupyter Notebook sont populaires ?
+
+- Le workflow REPL
+- Avec en plus:
+  - **narration**
+  - **mémoire**
+  - **reproductibilité**
+  - **communication**
+
+---
+
+# IPython
+
+![fit](https://user-images.githubusercontent.com/591645/228060329-13368066-b1e9-4812-9662-70919d833a77.png)
+
+---
+
+# Jupyter Notebook
+
+![fit 90%](img/jupyter-notebook.png)
+
+---
+
+# JupyterLab
+
+![fit 90%](img/jupyterlab.png)
+
 ---
 
 # L'écosystème Jupyter est très vaste
@@ -78,6 +141,26 @@ img[alt~="center"] {
 ---
 
 ![bg fit 75%](./img/jupyterlite.svg)
+
+---
+
+# Cas d'usage
+
+---
+
+![bg fit](https://github.com/jtpio/alposs-2024/assets/591645/de3ee8ac-5fbf-44e7-b76f-c97e9fb50218)
+
+---
+
+![bg fit](https://github.com/jtpio/alposs-2024/assets/591645/c0fe58fa-c2d8-4777-a996-9a8cd8f641f7)
+
+---
+
+# Un site Jupyter accessible en quelques secondes
+
+---
+
+# Education
 
 ---
 
