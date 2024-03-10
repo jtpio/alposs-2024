@@ -46,37 +46,15 @@ img[alt~="center"] {
 
 ---
 
-# Les Jupyter Notebook
-
-- Data Science
-- Analyse de données
-- Education
-
----
-
 # Historique rapide de Jupyter
 
----
-
-# Interactive Computing
-
-- Compose
-- Submit
-- Run
-- Output
-- View
-- Repeat
+![bg fit right:30%](https://jupyter.org/assets/homepage/main-logo.svg)
 
 ---
 
-# IPython
+# IPython dans le terminal
 
-- Challenges:
-  - **Pas de narration**
-  - **Pas de mémoire**
-  - **Pas de reproductibilité et communication**
-
-![bg fit right](https://ipython.readthedocs.io/en/stable/_images/ipython-6-screenshot.png)
+![fit](https://ipython.readthedocs.io/en/stable/_images/ipython-6-screenshot.png)
 
 ---
 
@@ -95,7 +73,7 @@ img[alt~="center"] {
 
 ---
 
-# IPython
+# IPython Notebook
 
 ![fit](https://user-images.githubusercontent.com/591645/228060329-13368066-b1e9-4812-9662-70919d833a77.png)
 
@@ -130,8 +108,8 @@ img[alt~="center"] {
 
 - Tout tourne dans le navigateur web via WebAssembly
 - Se base sur la stack Jupyter existante:
-  - Les noyaux Pyodide et Xeus executent le code dans le navigateur
-  - JupyterLab et Jupyter Notebook
+  - Les noyaux Pyodide et Xeus exécutent le code dans le navigateur
+  - Interfaces web JupyterLab et Jupyter Notebook
   - Voici pour faire des applications web et dashboards
 
 ---
