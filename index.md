@@ -142,12 +142,11 @@ img[alt~="center"] {
 
 ---
 
-# Resources
+# Ressources
 
-- Jupyter Documentation: https://docs.jupyter.org
-- This presentation: https://github.com/jtpio/alposs-2024
+- Documentation Jupyter: https://docs.jupyter.org
+- Cette présentation: https://github.com/jtpio/alposs-2024
 
 ---
 
 # Merci !
-
