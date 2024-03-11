@@ -29,12 +29,12 @@ img[alt~="center"] {
 
 ### Jérémy Tuloup
 
+https://jtp.io/alposs-2024
+
 ---
 
 # About
 <div>
-
-## Jérémy Tuloup
 
 - Directeur Technique à QuantStack
 - Jupyter Distinguished Contributor
@@ -104,6 +104,10 @@ img[alt~="center"] {
 
 ---
 
+![bg fit](https://raw.githubusercontent.com/jupyterlite/jupyterlite/main/docs/_static/icon.svg)
+
+---
+
 # JupyterLite
 
 - Tout tourne dans le navigateur web via WebAssembly
@@ -114,11 +118,41 @@ img[alt~="center"] {
 
 ---
 
+# Jupyter
+
+![center](https://user-images.githubusercontent.com/591645/228267004-e4e2e54f-1d5f-45b7-bacb-6c3a1844c479.png)
+
+---
+
+# JupyterLite
+
+![center](https://user-images.githubusercontent.com/591645/237059523-d29b94e6-7287-4608-b617-b0fe2a74877a.png)
+
+---
+
+
 ![bg fit 60%](./img/jupyterlite.png)
 
 ---
 
 ![bg fit 75%](./img/jupyterlite.svg)
+
+---
+
+# Jupyter et Python dans le navigateur
+
+![center w:512](https://raw.githubusercontent.com/jupyterlite/jupyterlite/main/docs/_static/badge-launch.svg)
+
+- ✅ pas de serveur Python
+- ✅ pas de ligne de commande
+- ✅ pas besoin d'installer Python et autres paquets
+- ✅ peut être hébergé comme site statique
+
+---
+
+# Un site Jupyter accessible en quelques secondes
+
+![center h:600px](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
 ---
 
@@ -134,27 +168,38 @@ img[alt~="center"] {
 
 ---
 
-# Un site Jupyter accessible en quelques secondes
-
-TODO:
-- demo site
-- demo video
+<video
+  controls
+  width="100%"
+  height="600px"
+  src="https://github.com/jtpio/alposs-2024/assets/591645/9b5e247d-cb89-4b15-aba3-97e5ab381bb5">
+</video>
 
 ---
 
 # Education
 
 - Capytale
-- scikit-learn notebooks: https://scikit-learn.org/dev/lite/lab/index.html
+- Paris Saclay
+- UC Berkeley
 
 ---
 
-# Ressources
+# :rocket: Deployez sur GitHub Pages
+
+- https://github.com/jupyterlite/demo
+
+![center height:400px](https://raw.githubusercontent.com/jupyterlite/xeus-python-demo/main/deploy.gif)
+
+
+---
+
+# 🔍 Références
 
 - Documentation Jupyter: https://docs.jupyter.org
 - Cette présentation:
   - Repo: https://github.com/jtpio/alposs-2024
-  - Demo: https://jtp.io/alposs-2024
+  - Slides: https://jtp.io/alposs-2024
 
 ---
 
