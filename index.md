@@ -285,6 +285,13 @@ jupyter lite build
 
 ---
 
+https://jupyterlite.github.io/demo/
+
+
+![](https://github.com/jtpio/alposs-2024/assets/591645/9e19fcea-4f17-4bd4-a83a-9eb548bd9968)
+
+---
+
 # 🔍 Références
 
 - Documentation Jupyter: https://docs.jupyter.org
