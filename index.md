@@ -33,7 +33,7 @@ https://jtp.io/alposs-2024
 
 ---
 
-# About
+# Jérémy Tuloup
 
 - Directeur Technique à QuantStack
 - Jupyter Distinguished Contributor
@@ -59,7 +59,7 @@ https://jtp.io/alposs-2024
 
 ---
 
-# Pourquoi les Jupyter Notebook sont populaires ?
+# Pourquoi les notebooks sont populaires ?
 
 - Le workflow REPL
 - Avec en plus:
