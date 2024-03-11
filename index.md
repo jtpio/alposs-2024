@@ -144,7 +144,7 @@ https://jtp.io/alposs-2024
 ![center w:512](https://raw.githubusercontent.com/jupyterlite/jupyterlite/main/docs/_static/badge-launch.svg)
 
 - ✅ pas de serveur Python
-- ✅ pas de ligne de commande
+- ✅ pas de ligne de commande pour les utilisateurs
 - ✅ pas besoin d'installer Python et autres paquets
 - ✅ peut être hébergé comme site statique
 
@@ -156,11 +156,102 @@ https://jtp.io/alposs-2024
 
 ---
 
+# Générateur de site statique
+
+```shell
+pip install jupyterlite-core
+
+jupyter lite build
+```
+
+---
+
+# Fichiers HTML, CSS, JavaScript, Wasm
+
+<div class="columns">
+<div>
+
+
+```
+├── api
+│   └── translations
+│       ├── all.json
+│       └── en.json
+├── bootstrap.js
+├── build
+│   ├── 9507.1e6cc5d.js
+│   ├── 9602.62bf0f1.js
+│   ├── 9621.e2e8b5d.js
+│   ├── ...
+│   ├── repl
+│   │   ├── bundle.js
+│   ├── retro
+│   │   ├── bundle.js
+│   ├── schemas
+│   │   ├── all.json
+│   │   ├── @jupyterlab
+│   │   │   ├── application-extension
+│   │   │   │   ├── commands.json
+│   │   │   │   ├── context-menu.json
+│   │   │   │   ├── shell.json
+│   │   │   │   └── sidebar.json
+│   ├── themes
+│   │   └── @jupyterlab
+│   │       ├── theme-dark-extension
+│   │       │   ├── index.css
+│   │       │   └── index.js
+...
+```
+</div>
+<div>
+
+```
+...
+│   │       └── theme-light-extension
+│   │           ├── index.css
+│   │           └── index.js
+├── config-utils.js
+├── extensions
+│       └── xeus-python-kernel
+│           └── static
+│               ├── numpy-1.24.2-py310h6d2fff6_0.0.data
+│               ├── numpy-1.24.2-py310h6d2fff6_0.0.js
+│               ├── python-3.10.2-h_hash_26_cpython.0.data
+│               ├── python-3.10.2-h_hash_26_cpython.0.js
+│               ├── python_data.js
+│               ├── remoteEntry.35b4eac217ec6bf078a4.js
+├── lab
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── jupyter-lite.ipynb
+│   ├── jupyter-lite.json
+│   ├── package.json
+│   ├── tree
+│   │   └── index.html
+│   └── workspaces
+│       └── index.html
+...
+```
+
+</div>
+</div>
+
+---
+
 # Cas d'usage
 
 ---
 
-![bg fit](https://github.com/jtpio/alposs-2024/assets/591645/de3ee8ac-5fbf-44e7-b76f-c97e9fb50218)
+![center h:300px](https://user-images.githubusercontent.com/591645/162619390-ecab994a-3f39-4e26-af78-ca2569aee9b2.png)
+
+```html
+<iframe
+  src="https://jupyterlite.github.io/demo/repl/index.html?kernel=python&toolbar=1"
+  width="100%"
+  height="500px"
+>
+</iframe>
+```
 
 ---
 
@@ -179,8 +270,8 @@ https://jtp.io/alposs-2024
 
 # Education
 
-- Capytale
-- Paris Saclay
+- Capytale: https://capytale.fr
+- Paris Saclay: https://jupyter.gitlab.dsi.universite-paris-saclay.fr/tutoriel-jupyter/utiliser.html
 - UC Berkeley
 
 ---
