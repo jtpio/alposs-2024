@@ -34,15 +34,12 @@ https://jtp.io/alposs-2024
 ---
 
 # About
-<div>
 
 - Directeur Technique à QuantStack
 - Jupyter Distinguished Contributor
 - Jupyter Frontends SSC (Steering Software Council) representative
 - Contributeur à de nombreux projets Jupyter
 - Créateur de JupyterLite
-
-</div>
 
 ---
 
