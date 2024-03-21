@@ -88,6 +88,40 @@ https://jtp.io/alposs-2024
 
 ---
 
+# LIGO
+
+<div class="columns">
+
+
+<div>
+<img src="https://github.com/jtpio/alposs-2024/assets/591645/ebcf3de3-7e5e-43ec-87a4-c7cc19379680" />
+</div>
+
+<div>
+<img src="https://github.com/jtpio/alposs-2024/assets/591645/2aa58b86-b9d8-437d-8153-345f00a73b08" />
+</div>
+
+</div>
+
+---
+
+# Black Hole M87
+
+<div class="columns">
+
+<div>
+<img src="https://github.com/jtpio/alposs-2024/assets/591645/3600c6d4-1894-48f1-9855-4d760d53e84c">
+</div>
+
+<div>
+<img src="https://github.com/jtpio/alposs-2024/assets/591645/c1cb7afe-0840-48b7-9708-67b5bd7fd0ff">
+
+</div>
+
+</div>
+
+---
+
 # L'écosystème Jupyter est très vaste
 
 - Navigating the Jupyter Landscape
