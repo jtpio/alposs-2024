@@ -299,6 +299,18 @@ jupyter lite build
 
 ---
 
+https://github.com/rowanc1/myst-lite
+
+<video
+  controls
+  width="100%"
+  height="600px"
+  src="https://github.com/rowanc1/myst-lite/assets/913249/c62478d3-fc90-4350-8006-9a65846a2f26">
+
+</video>
+
+---
+
 # Education
 
 - Capytale: https://capytale.fr
